@@ -7,12 +7,12 @@
   işlemleri gerçekleştirilmiştir.
 
 # Tamamlanan Görevler
-  GCP üzerinde VM instance oluşturuldu (e2-micro, europe-west3)  
-  Yerel makineden VM'in External IP adresine Ping testi yapıldı
-  VM'e SSH ile bağlantı kuruldu
-  Terminal üzerinde bir metin dosyası oluşturuldu ve içeriği okundu
+ - GCP üzerinde VM instance oluşturuldu (e2-micro, europe-west3)  
+ - Yerel makineden VM'in External IP adresine Ping testi yapıldı
+ - VM'e SSH ile bağlantı kuruldu
+ - Terminal üzerinde bir metin dosyası oluşturuldu ve içeriği okundu
 
 # Kullanılan Teknolojiler
-  Google Cloud Platform (GCP)
-  Compute Engine
-  Linux (Debian)
+ - Google Cloud Platform (GCP)
+ - Compute Engine
+ - Linux (Debian)
